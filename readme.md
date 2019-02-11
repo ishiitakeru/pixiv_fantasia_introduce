@@ -1,5 +1,4 @@
-# pixiv_fantasia_introduce
-pixivファンタジアへの参加を検討中の人向けのガイドライン
+# pixivファンタジアへの参加を検討中の人向けのガイドライン
 
 ## pixivファンタジアとは
 * <a href="https://www.pixiv.net/member.php?id=19606" target="_blank">アロハJ氏</a>主催のpixivユーザー企画
