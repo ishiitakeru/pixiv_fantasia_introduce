@@ -20,3 +20,5 @@
   * [PFLSモンスター](https://www.pixiv.net/search.php?s_mode=s_tag_full&word=PFLS%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC) : pixivファンタジアLSのモンスター
   * [PFLS食料](https://www.pixiv.net/search.php?s_mode=s_tag_full&word=PFLS%E9%A3%9F%E6%96%99) : pixivファンタジアLSの食べ物
   * [PFLS百景](https://www.pixiv.net/search.php?s_mode=s_tag_full&word=PFLS%E7%99%BE%E6%99%AF) : pixivファンタジアLSの風景
+
+→ [二次創作タイプ : 二次創作のネタ元としてpixivファンタジアを採用したい](04_fanart.md)
