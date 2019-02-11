@@ -1,0 +1,2 @@
+# pixiv_fantasia_introduce
+pixivファンタジアへの参加を検討中の人向けのガイドライン
